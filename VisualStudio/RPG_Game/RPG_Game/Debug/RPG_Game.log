@@ -1,0 +1,56 @@
+﻿  GameManager.cpp
+D:\학원\VisualStudio\RPG_Game\RPG_Game\MapDraw.h(59,9): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\MapDraw.h(118,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\MapDraw.h(118,20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(7,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(63,132): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(63,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(80,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(81,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(82,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(83,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(97,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(125,131): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(125,91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(160,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(161,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(162,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(163,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(164,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(165,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(166,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(179,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(179,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(243,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(243,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(262,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(271,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(272,116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(292,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(301,120): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(301,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(316,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(317,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(318,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(319,87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(320,84): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(321,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(322,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(323,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(338,124): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(338,87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(370,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(371,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(372,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(373,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(374,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(375,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(376,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(377,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(389,107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(389,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(414,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(418,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(420,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\학원\VisualStudio\RPG_Game\RPG_Game\GameManager.cpp(423,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RPG_Game.vcxproj -> D:\학원\VisualStudio\RPG_Game\Debug\RPG_Game.exe

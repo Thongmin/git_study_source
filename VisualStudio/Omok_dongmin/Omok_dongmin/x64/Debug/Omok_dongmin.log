@@ -1,0 +1,4 @@
+﻿  Play.cpp
+E:\학원\Omok_dongmin\Omok_dongmin\Mecro.h(60,1): warning C4005: 'NO_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock.h(683): message : 'NO_DATA'의 이전 정의를 참조하십시오.
+  Omok_dongmin.vcxproj -> E:\학원\Omok_dongmin\x64\Debug\Omok_dongmin.exe
