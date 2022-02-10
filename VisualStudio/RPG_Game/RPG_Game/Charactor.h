@@ -20,6 +20,13 @@ public:
 
 	void PrintInfo(int iWidth, int iHeight);
 	void LoadData(ifstream* Load);
+	bool CutOffHP(int iDamage);
+	int GetDamage();
+	string GetName();
+	int GetEXP();
+	void IncreaseEXP(int iEXP);
+	bool CompareEXP();
+	void LevelUP();
 };
 
 // 공격력, 생명력, 경험치, 죽었을 때 주는 경험치, 소지금

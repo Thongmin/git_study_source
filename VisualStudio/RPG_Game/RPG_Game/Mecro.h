@@ -51,6 +51,16 @@ using namespace std;
 #define LOAD 1
 #define MAX_SHOP_COUNT 5
 #define DEFAULT_SHOP_MENU_COUNT 3
+#define WEAPON_BOW_MAX 5
+#define WEAPON_DAGGER_MAX 6
+#define WEAPON_GUN_MAX 4
+#define WEAPON_SWORD_MAX 5
+#define WEAPON_WAND_MAX 5
+#define WEAPON_HAMMER_MAX 5
+#define LEVEL_UP_STAT_MAX 4
+#define ONE_SCISSORS 49
+#define TWO_ROCK 50
+#define THREE_PAPER 51
 
 enum Map
 {
@@ -140,6 +150,28 @@ enum Weapon_Type
 	WEAPON_TYPE_HAMMER,
 	WEAPON_TYPE_MAX_COUNT = WEAPON_TYPE_HAMMER,
 	WEAPON_SHOP_EXIT
+};
+
+enum Weapon_Menu
+{
+	WEAPON_MENU_BEFORE = 1,
+	WEAPON_MENU_AFTER,
+	WEAPON_MENU_EXIT,
+	WEAPON_MENU_LIST_MAX = 8
+};
+
+enum Attack
+{
+	ATTACK_SCISSORS = 1,
+	ATTACK_ROCK,
+	ATTACK_PAPER
+};
+
+enum Result
+{
+	RESULT_DRAW,
+	RESULT_WIN,
+	RESULT_LOSE
 };
 
 

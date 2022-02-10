@@ -27,7 +27,7 @@ private:
 	void Play();
 	void PrintSaveorLoadGame();
 	void PrintPlayMenu();
-	void DongeonMenu();
+	bool DongeonMenu();
 	void PrintDongeonMenu();
 	void WindowSet();
 	void LoadWeaponData();
@@ -39,5 +39,9 @@ private:
 	void WeaponShop(string strWeaponType);
 	int PrintWeaponShop(string strWeaponType, int& iPage);
 	void WeaponShopAction(int iSelect);
+	bool DongeonPlay(int iMonster);
+	int PlayWinCheck(int iMonsterAttack, int iPlayerAttack, int iMonster);
+	void PrintDongeonPlay(string strMonsterAttack, string strPlayerAttack, int iResult);
+	string CharactorAttack(int iAttack);
 };
 

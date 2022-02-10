@@ -3,7 +3,8 @@
 
 void main()
 {
-	GameManager GM;
+	srand((unsigned)time(NULL));
 
+	GameManager GM;
 	GM.MainMenu();
 }

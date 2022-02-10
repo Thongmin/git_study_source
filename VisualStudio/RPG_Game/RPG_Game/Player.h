@@ -16,16 +16,29 @@ public:
 
 	virtual void PrintInfo(int iWidth, int iHeight);
 	virtual void LoadData(ifstream* Load, map<string, vector<Weapon>> LoadWeapon);
-	void SetName(string strName);
+	virtual int GetDamage();
 	void SaveData(ofstream* Save);
+	void Reset();
+	void SetName(string strName)
+	{
+		m_strName = strName;
+	}
+	void CutOffGold(int iGold)
+	{
+		m_iGold -= iGold;
+	}
+	void AddGold(int iGold)
+	{
+		m_iGold += iGold;
+	}
 	void WeaponDataSave(Weapon* SaveWeapon)
 	{
 		m_Weapon = SaveWeapon;
 	}
-	
 	int GetGold() const
 	{
 		return m_iGold;
 	}
+
 };
 

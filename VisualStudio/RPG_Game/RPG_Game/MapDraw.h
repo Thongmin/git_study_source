@@ -54,7 +54,7 @@ public:
 		return;
 	}
 
-	static void DrawMidText(string str, int x, int y)
+	static void DrawMidText(string str,unsigned int x, int y)
 	{
 		if (x > str.size() / 2)
 			x -= str.size() / 2;
@@ -73,7 +73,7 @@ public:
 	static void ErasePoint(int x, int y)
 	{
 		gotoxy(x * 2, y);
-		cout << "  ";
+		cout << "    ";
 		gotoxy(-1, -1);
 		return;
 	}
@@ -115,7 +115,7 @@ public:
 
 	static void gotoxy(int x, int y)
 	{
-		COORD Pos = { x, y };
+		COORD Pos = { (short)x, (short)y };
 		SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), Pos);
 	}
 };
